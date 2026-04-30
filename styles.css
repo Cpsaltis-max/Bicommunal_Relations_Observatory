@@ -83,6 +83,16 @@ a {
   display: flex;
   align-items: center;
   gap: 8px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 14px;
+  flex-wrap: wrap;
 }
 
 .top-nav a {
@@ -97,6 +107,32 @@ a {
 .top-nav a:hover {
   background: var(--soft);
   color: var(--ink);
+}
+
+.language-switcher {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 3px;
+}
+
+.language-switcher button {
+  min-width: 38px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 900;
+  padding: 7px 8px;
+}
+
+.language-switcher button.active {
+  background: var(--accent);
+  color: #fff;
 }
 
 .hero {
@@ -270,7 +306,7 @@ h3 {
 
 .tool-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 16px;
 }
 
@@ -345,8 +381,34 @@ h3 {
   background: #edf4f0;
 }
 
+.placeholder-section {
+  padding-block: 48px;
+}
+
 .contact-band div {
   max-width: 760px;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.profile-links a {
+  border: 1px solid rgba(15, 118, 110, 0.22);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--accent-strong);
+  font-weight: 900;
+  padding: 9px 12px;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  border-color: var(--accent);
+  background: var(--soft);
 }
 
 .site-footer {
@@ -390,6 +452,12 @@ h3 {
   .top-nav {
     width: 100%;
     justify-content: space-between;
+  }
+
+  .header-controls {
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
   }
 
   .hero {
