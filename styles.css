@@ -429,6 +429,62 @@ h3 {
   background: var(--soft);
 }
 
+.publications-list {
+  display: grid;
+  gap: 38px;
+}
+
+.publication-stack {
+  display: grid;
+  gap: 14px;
+}
+
+.publication-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 20px;
+}
+
+.publication-card h4 {
+  margin: 0 0 8px;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.publication-card p {
+  color: var(--muted);
+}
+
+.publication-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.publication-meta span,
+.abstract-label {
+  width: fit-content;
+  border: 1px solid rgba(15, 118, 110, 0.2);
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  font-weight: 900;
+  padding: 5px 9px;
+  text-transform: uppercase;
+}
+
+.publication-authors {
+  margin-bottom: 14px;
+  font-weight: 800;
+}
+
+.abstract-label {
+  margin-bottom: 8px;
+}
+
 .site-footer {
   display: flex;
   justify-content: space-between;

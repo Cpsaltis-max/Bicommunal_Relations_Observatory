@@ -189,6 +189,16 @@
             <a href="https://www.researchgate.net/profile/Charis-Psaltis">ResearchGate</a>
           </div>
         </div>
+        <div class="publications-list" aria-live="polite">
+          <div>
+            <h3 data-i18n="books_heading">Books</h3>
+            <div id="books-list" class="publication-stack"></div>
+          </div>
+          <div>
+            <h3 data-i18n="papers_heading">Papers</h3>
+            <div id="papers-list" class="publication-stack"></div>
+          </div>
+        </div>
       </section>
 
       <section id="datasets" class="section placeholder-section" aria-labelledby="datasets-title">
@@ -232,6 +242,7 @@
       <span data-i18n="footer_text">Research tools platform</span>
     </footer>
 
+    <script src="publications.js"></script>
     <script>
       const translations = {
         en: {
@@ -287,6 +298,11 @@
           publications_eyebrow: "Publications",
           publications_title: "Publications and research outputs",
           publications_text: "Links to articles, books, reports, and searchable publication resources.",
+          books_heading: "Books",
+          papers_heading: "Papers",
+          abstract_label: "Abstract",
+          publisher_label: "Publisher",
+          view_pdf: "View PDF",
           datasets_eyebrow: "Datasets",
           datasets_title: "Datasets and research materials",
           datasets_text: "Public datasets, documentation, and related resources will be listed here as they become available.",
@@ -352,6 +368,11 @@
           publications_eyebrow: "Δημοσιεύσεις",
           publications_title: "Δημοσιεύσεις και ερευνητικά αποτελέσματα",
           publications_text: "Σύνδεσμοι προς άρθρα, βιβλία, εκθέσεις και αναζητήσιμους πόρους δημοσιεύσεων.",
+          books_heading: "Βιβλία",
+          papers_heading: "Άρθρα",
+          abstract_label: "Περίληψη",
+          publisher_label: "Εκδότης",
+          view_pdf: "Προβολή PDF",
           datasets_eyebrow: "Δεδομένα",
           datasets_title: "Δεδομένα και ερευνητικό υλικό",
           datasets_text: "Δημόσια δεδομένα, τεκμηρίωση και σχετικοί πόροι θα καταγράφονται εδώ όταν είναι διαθέσιμα.",
@@ -417,6 +438,11 @@
           publications_eyebrow: "Yayınlar",
           publications_title: "Yayınlar ve araştırma çıktıları",
           publications_text: "Makalelere, kitaplara, raporlara ve aranabilir yayın kaynaklarına bağlantılar.",
+          books_heading: "Kitaplar",
+          papers_heading: "Makaleler",
+          abstract_label: "Özet",
+          publisher_label: "Yayıncı",
+          view_pdf: "PDF görüntüle",
           datasets_eyebrow: "Veri Setleri",
           datasets_title: "Veri setleri ve araştırma materyalleri",
           datasets_text: "Kamusal veri setleri, belgeler ve ilgili kaynaklar kullanılabilir oldukça burada listelenecektir.",
@@ -443,7 +469,55 @@
         document.querySelectorAll("[data-lang]").forEach((button) => {
           button.classList.toggle("active", button.dataset.lang === lang);
         });
+        renderPublications(lang);
         localStorage.setItem("site-language", lang);
+      }
+
+      function createPublicationCard(item, lang) {
+        const dictionary = translations[lang] || translations.en;
+        const article = document.createElement("article");
+        article.className = "publication-card";
+        const meta = document.createElement("div");
+        meta.className = "publication-meta";
+        const year = document.createElement("span");
+        year.textContent = item.year;
+        meta.appendChild(year);
+        if (item.publisher) {
+          const publisher = document.createElement("span");
+          publisher.textContent = `${dictionary.publisher_label}: ${item.publisher}`;
+          meta.appendChild(publisher);
+        }
+        const title = document.createElement("h4");
+        title.textContent = item.title;
+        const authors = document.createElement("p");
+        authors.className = "publication-authors";
+        authors.textContent = item.authors;
+        const label = document.createElement("p");
+        label.className = "abstract-label";
+        label.textContent = dictionary.abstract_label;
+        const abstract = document.createElement("p");
+        abstract.textContent = item.abstract;
+        const link = document.createElement("a");
+        link.className = "button secondary";
+        link.href = item.pdf;
+        link.textContent = dictionary.view_pdf;
+        article.append(meta, title, authors, label, abstract, link);
+        return article;
+      }
+
+      function renderPublicationGroup(containerId, items, lang) {
+        const container = document.getElementById(containerId);
+        if (!container || !window.publicationsData) return;
+        container.innerHTML = "";
+        items.forEach((item) => {
+          container.appendChild(createPublicationCard(item, lang));
+        });
+      }
+
+      function renderPublications(lang) {
+        if (!window.publicationsData) return;
+        renderPublicationGroup("books-list", window.publicationsData.books, lang);
+        renderPublicationGroup("papers-list", window.publicationsData.papers, lang);
       }
 
       document.querySelectorAll("[data-lang]").forEach((button) => {
