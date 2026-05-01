@@ -13,7 +13,7 @@ window.publicationsData = {
     {
       "year": 2026,
       "authors": "Constantinos Efthymiou and Charis Psaltis",
-      "title": "Can a 10 minute Contact Intervention Reduce Prejudice Amongst Youth",
+      "title": "Can a 10-minute Contact Intervention Reduce Prejudice Amongst Youth",
       "abstract": "This study examined the effectiveness and durability of a brief direct contact intervention in reducing prejudice among Greek Cypriot university students towards Turkish Cypriots in the divided and post-conflict context of Cyprus. The sample included 96 participants (70 females, M age = 21.75), with 45 randomly assigned to the intervention condition. Participants were assessed across three time points. Results revealed that the intervention, relative to the control condition, produced short- term improvements in outgroup attitudes, behavioural intentions, outgroup trust, willingness for cohabitation, intergroup anxiety, and perceived similarity. Importantly, willingness for cohabitation, intergroup anxiety, and perceived similarity remained improved at the 1-month follow-up. These findings highlight the potential and limitations of brief direct intergroup contact in improving intergroup...",
       "pdf": "papers/efthymiou-psaltis-2026-can-a-10-minute-contact-intervention-reduce-prejudice-amongst-youth.pdf"
     },
@@ -26,14 +26,14 @@ window.publicationsData = {
     },
     {
       "year": 2025,
-      "authors": "Kirchner et al",
+      "authors": "Alexander Kirchner-Häusler et al",
       "title": "Assessing the Role of Honour Culture and Image Concerns in Impeding Apologies",
-      "abstract": "Despitetheknownbenefitsofapologies,peopleoftenfailtoapologizeforwrongdoings.Weexaminedtheroleofaculturallogic ofhonour—whereapologizingmayclashwithconcernsaboutmaintaininganimageofstrengthandtoughness—inreluctanceto apologize.Usinggeneralpopulationsamplesfrom14societiesin Mediterranean,East Asianand Anglo-Westernregions( N =5471), weexploredlinksbetweenhonourvaluesandnorms,imageconcerns,andapologyoutcomesusingmultilevelmediationanalyses. Members of groups with stronger honour endorsement reported stronger image concerns about apologizing relative to their concerns about not apologizing, which, in turn, predicted greater reluctance to apologize and fewer past apologies. However, groupswithstrongerhonourendorsementdidnotshowgreaterreluctancetoapologizeoverall,andsomeindividual-levelfacetsof honourpredictedbetterapologyoutcomes.Ourresultshighlighttheimportanceofconsideringhonourasamultiface...",
+      "abstract": "Despite the known benefits of apologies, people often fail to apologize for wrongdoing. This article examines whether honor culture and image concerns help explain reluctance to apologize. Using general population samples from 14 societies in Mediterranean, East Asian, and Anglo-Western regions, the study explores links between honor values and norms, image concerns, and apology outcomes. The findings show that members of groups with stronger honor endorsement report stronger concerns about the image costs of apologizing, which in turn predict greater reluctance to apologize and fewer past apologies. The results highlight the importance of treating honor as a multifaceted cultural logic when studying apology, accountability, and repair.",
       "pdf": "papers/kirchner-et-al-2025-assessing-the-role-of-honour-culture-and-image-concerns-in-impeding-apologies.pdf"
     },
     {
       "year": 2025,
-      "authors": "Psaltis et al",
+      "authors": "Charis Psaltis et al",
       "title": "Contested history teaching and dialogue in divided Cyprus",
       "abstract": "This chapter examines contested history teaching in divided Cyprus through the lens of dialogue, social representations, and conflict transformation. It contrasts history-as-heritage, which transmits fixed national narratives and reinforces identity-based divisions, with history-as-critical inquiry, which encourages multiperspectivity, decentration, and reflective engagement with evidence. The chapter argues that in Cyprus, where collective memories and nationalist ideologies remain deeply entangled with education, history teaching can either reproduce exclusionary representations of the past or open space for mutual understanding. It highlights the role of educators in moving beyond master narratives, cultivating critical historical thinking, and supporting pedagogical practices that contribute to reconciliation and democratic coexistence.",
       "pdf": "papers/psaltis-et-al-2025-contested-history-teaching-and-dialogue-in-divided-cyprus.pdf"
@@ -41,15 +41,15 @@ window.publicationsData = {
     {
       "year": 2025,
       "authors": "Christiana Karayianni and Charis Psaltis",
-      "title": "Negotiating Meaning Cypriot Leaders and the EU?s Role in Conflict Resolution",
-      "abstract": "This article examines how Europe-related discourses were used on Twitter in the Cyprus peace process. Europe and the EU have long shaped public debate on the issue. By analyzing tweets from Greek-Cypriot and Turkish-Cypriot leaders across three key periods (2015–2021), the study traces shifting narratives about Europe’s role. The findings show how Europe’s role in the Cyprus problem was dynamically reframed on Twitter throughout these phases..",
+      "title": "Negotiating Meaning: Cypriot Leaders and the EU’s Role in Conflict Resolution",
+      "abstract": "This article examines how Europe-related discourses were used on Twitter in the Cyprus peace process. Europe and the EU have long shaped public debate on the Cyprus problem. By analysing tweets from Greek Cypriot and Turkish Cypriot leaders across three key periods from 2015 to 2021, the study traces shifting narratives about Europe’s role in conflict resolution. The findings show how Europe’s meaning was dynamically reframed during different phases of the peace process, sometimes as a framework for cooperation and legitimacy and sometimes as a site of contestation. The article highlights how political leaders use social media to negotiate meanings of Europe, peace, and political responsibility in a divided society.",
       "pdf": "papers/karayianni-psaltis-2025-negotiating-meaning-cypriot-leaders-and-the-eu-s-role-in-conflict-resolution.pdf"
     },
     {
       "year": 2025,
-      "authors": "Figueiredo et al",
-      "title": "Social Cohesion in Post-Conflict and Divided Societies Recent Advances",
-      "abstract": "Althoughthestudyofsocialcohesionindividedand(post-)conflictsocietieshasgrownsteadilywithinsocialpsychologyoverthe pastdecades,researchersalsoarguethataddressingsocialcohesionisacomplextaskduetoitsmultidimensionalandmultilevel nature.Withthisspecialthematicsection,weaimtoadvancetheunderstandingofthedynamicsofsocialcohesionacrosscontexts marked by deep social divisions and intergroup tensions where achieving social cohesion can be particularly challenging. We also seek to showcase research examining different dimensions of social cohesion and explore how such analyses can inform effortstofostercohesionandimproveintra-andintergrouprelations.Thisspecialthematicsectionbringstogethernineempirical articles, drawing on both quantitative and qualitative methods, conducted in diverse, divided and (post-)conflict contexts, and incorporatingbothmajorityandminoritygroups’perspectives.Together,theseco...",
+      "authors": "Ana Figueiredo et al",
+      "title": "Social Cohesion in Post-Conflict and Divided Societies: Recent Advances",
+      "abstract": "This special issue introduction examines recent advances in the study of social cohesion in post-conflict and divided societies. It argues that social cohesion is a multidimensional and multilevel phenomenon that is especially challenging in contexts marked by deep social divisions and intergroup tensions. The article brings together research using quantitative and qualitative methods across diverse divided and post-conflict settings, with attention to both majority and minority perspectives. It highlights how analyses of trust, belonging, participation, intergroup relations, and institutional arrangements can inform efforts to foster cohesion and improve relations within and between groups.",
       "pdf": "papers/figueiredo-et-al-2025-social-cohesion-in-post-conflict-and-divided-societies-recent-advances.pdf"
     },
     {
@@ -61,15 +61,15 @@ window.publicationsData = {
     },
     {
       "year": 2023,
-      "authors": "Power et al",
+      "authors": "Séamus A. Power et al",
       "title": "Social Psychology of and World-Making",
       "abstract": "Social psychology's disconnect from the vital and urgent questions of people's lived experiences reveals limitations in the current paradigm. Drawing on a sociocultural approach, this article argues that social psychology should be understood not only as a historical science but also as a psychology of and for world-making. This perspective helps make sense of theoretical and methodological challenges faced by contemporary social psychology by emphasizing that people actively participate in making societies, social relations, and possible futures. The article describes the ontology, epistemology, ethics, and methods of social psychology of and for world-making, and argues that this reconceptualization can make the discipline more humble, more reflexive, and more relevant to pressing issues of social change.",
       "pdf": "papers/power-et-al-2023-social-psychology-of-and-world-making.pdf"
     },
     {
       "year": 2023,
-      "authors": "Psaltis et al",
-      "title": "The role of Honor Dignity and Face Values in Transitional Justice",
+      "authors": "Charis Psaltis et al",
+      "title": "The Role of Honor, Dignity, and Face Values in Transitional Justice",
       "abstract": "Transitional justice can help secure some level of justice for victims of human rights violations and reinforce possibilities for peace, democracy, and reconciliation in societies that have experienced human rights abuses. This article examines the role of honor, face, and dignity values in shaping preferences for transitional justice in post-conflict Cyprus. It tests whether honor values predict retributive, rather than reconciliatory, justice preferences beyond reconciliation-related attitudes and intergroup contact. A questionnaire study with 450 Greek Cypriots measured transitional justice preferences, honor, face, and dignity values, intergroup contact, trust, prejudice, and demographic variables. Analyses showed that honor and dignity values predicted retributive justice preferences above and beyond other reconciliation-related variables, while face values showed suggestive evidence of a different pattern. The findings underline the importance of cultural values in public support for transitional justice arrangements.",
       "pdf": "papers/psaltis-et-al-2023-the-role-of-honor-dignitiy-and-face-values-in-transitional-justice.pdf"
     },
@@ -77,20 +77,13 @@ window.publicationsData = {
       "year": 2023,
       "authors": "Christiana Karayianni and Charis Psaltis",
       "title": "Tweeting for Peace",
-      "abstract": "Purpose- The article examines how the two Cypriot leaders – the Greek-Cypriot community leader Nicos Anastasiades and the Turkish-Cypriot community leader Mustafa Akinci –have used their Twitter accounts during the period leading to the intensification of the Cyprus peace process between 30 April 2015– 30 November 2016. Design/Methodology/Approach- This article presents using descriptive analysis and thematic analysis how the two leaders have used Twitter in the negotiations’ period. Findings- The analysis shows that the leaders during the timeframe examined, developed both pro-peace discourses around the Cyprus problem as well as parasocial and vicarious intergroup contact that contributed in what Hogg (2015) defines an intergroup relational identity that is an effective form of “bridging” leadership across communities. Originality/Value- The article argues that Twitter is a tool that i...",
+      "abstract": "This article examines how the Greek Cypriot leader Nicos Anastasiades and the Turkish Cypriot leader Mustafa Akıncı used Twitter during the period leading to the intensification of the Cyprus peace process between April 2015 and November 2016. Through descriptive and thematic analysis, it shows that both leaders developed pro-peace discourses around the Cyprus problem and used Twitter to create forms of parasocial and vicarious intergroup contact. The article argues that these online practices contributed to an intergroup relational identity and a form of bridging leadership across communities, showing how social media can become a meaningful tool in peace communication.",
       "pdf": "papers/karayianni-psaltis-2023-tweeting-for-peace.pdf"
     },
     {
       "year": 2022,
-      "authors": "Michalis Kyriakides and Charis Psaltis",
-      "title": "Article Suppressing the Expression of Prejudice",
-      "abstract": "We propose genetic social psychology as a theoretical framework to render intelligible both the suppression of the expression of prejudice and prejudice reduction in childhood. In particular, we explore the role of positive in-group norms in prejudice reduction in child- hood and adolescence and their interplay with realistic and symbolic threats and subgroup identification in the post-conflict setting of Cyprus in a sample of 303 (51.5% female) 7–12-year-old students (mean age = 8.73 SD = 1.58) and 387 (60.2% female) 12–17-year- old students (mean age = 14.24 SD = 1.45) collected from a random sample of thirty-nine schools in the Greek Cypriot community. The following hypotheses were tested (a) threats and social identification will form a closer link with prejudice in older than younger chil- dren (H1), (b) positive in-group norms will “trump” threats in relation to the expression of p...",
-      "pdf": "papers/kyriakides-psaltis-2022-article-suppressing-the-expression-of-prejudice.pdf"
-    },
-    {
-      "year": 2022,
-      "authors": "Loizides et al",
-      "title": "Citizens and Peace Mediations",
+      "authors": "Neophytos Loizides et al",
+      "title": "Citizens and Peace Mediations in Divided Societies",
       "abstract": "How can areas of potential agreement be identified and endorsed by citizens in protracted conflicts? This article introduces a conjoint experiment across the ethnically and territorially divided communities of Cyprus to test hypotheses about the structure of public opinion toward a future settlement. It examines security and credible commitments, the legacy of past negotiations, and transitional justice mechanisms in relation to United Nations efforts to mediate the conflict between Greek Cypriots and Turkish Cypriots. Contrary to conventional wisdom, the findings show that a zone of possible agreement exists from a public-opinion perspective. The article explores power-sharing, security, provisions for internally displaced persons, federal courts, and territorial readjustments, highlighting how public opinion research can identify combinations of settlement provisions with broader potential support.",
       "pdf": "papers/loizides-et-al-2022-citizens-and-peace-mediations.pdf"
     },
@@ -98,40 +91,47 @@ window.publicationsData = {
       "year": 2022,
       "authors": "Pavlina Charalambidou and Charis Psaltis",
       "title": "Inventing New Road Paths for the Contact Theory Through Contact",
-      "abstract": "Inventing New Road Paths for the Contact Theory Through Contact With a Puppet (a “Syrian Refugee Child ”) via a Teacher-Led Intervention in a Greek Primary School Pavlina Charalampidou 1 and Charis Psaltis 2 1 Institute of Educational Policy, Athens, Greece 2 Department of Psychology, University of Cyprus Ap r e–post quasi experimental design (test –retest–late response test) with a control group involving an intervention that aimed at creating contact conditions between the children of a classroom and a puppet “classmate” that held the identity of a Syrian refugee child was implemented in this study. Contact with a puppet is an innovative form of contact which combines features of direct and indirect intergroup contact. The sample comprised of 73 primary school students drawn from a relatively ethnically homogeneous primary school in Athens and attitudes measures, along with a behaviora...",
+      "abstract": "This study examines a teacher-led school intervention that created contact between primary school children and a puppet presented as a Syrian refugee child. Using a pre-post quasi-experimental design with a control group and a late response test, the study explored whether this innovative form of contact could improve attitudes toward refugees. The sample included 73 primary school students in Athens, and the study used attitude measures as well as a behavioral money-allocation task. Results showed that contact with the puppet improved children’s attitudes toward refugees through increased inclusion of the other in the self, increased empathy, and reduced threat-related feelings. The findings suggest that puppet-mediated contact can combine features of direct and indirect intergroup contact in useful ways.",
       "pdf": "papers/charalambidou-psaltis-2022-inventing-new-road-paths-for-the-contact-theory-through-contact.pdf"
     },
     {
+      "year": 2022,
+      "authors": "Michalis Kyriakides and Charis Psaltis",
+      "title": "Suppressing the Expression of Prejudice",
+      "abstract": "This article proposes genetic social psychology as a theoretical framework for understanding both the suppression of prejudice and prejudice reduction in childhood and adolescence. It examines how positive in-group norms interact with realistic and symbolic threats and subgroup identification in the post-conflict setting of Cyprus. Drawing on data from Greek Cypriot children and adolescents aged 7 to 17, the study tests whether threat and identification become more closely linked to prejudice with age and whether positive in-group norms can reduce the expression of prejudice. The findings illuminate how developmental processes, group norms, and intergroup representations jointly shape prejudice in divided societies.",
+      "pdf": "papers/kyriakides-psaltis-2022-article-suppressing-the-expression-of-prejudice.pdf"
+    },
+    {
       "year": 2021,
-      "authors": "Donno et al",
-      "title": "Extended intergroup contact in Frozen Conflicts",
+      "authors": "Daniela Donno, Charis Psaltis and Omer Zarpli",
+      "title": "Extended Intergroup Contact in Frozen Conflicts",
       "abstract": "How can ethnic reconciliation be achieved in conflict settings where populations are physically separated? This article examines extended contact, an indirect form of intergroup contact that involves learning about the contact experiences of others, in the context of Cyprus's frozen conflict. A survey experiment tests two pathways through which extended contact may work: building a common identity and activating empathy. The findings show that the treatments are associated with greater trust in the outgroup and greater support for cross-ethnic interaction, but mainly among segments of the population that were initially less favorable toward reconciliation. The study contributes to research on intergroup contact in divided societies by experimentally examining mechanisms through which indirect contact can support trust, empathy, and reconciliation.",
       "pdf": "papers/donno-et-al-2021-extended-intergroup-contact-in-frozen-conflicts.pdf"
     },
     {
       "year": 2021,
-      "authors": "Kende et al",
+      "authors": "Judit Kende et al",
       "title": "Past and Present Intergroup Contact and Conflict Among Inhabitants of Former Mixed Villages",
-      "abstract": "1 Political Psychology, Vol. 0, No. 0, 2021 doi: 10.1111/pops.12791 0162-895X © 2021 International Society of Political Psychology. Published by Wiley Periodicals, Inc., 350 Main Street, Malden, MA 02148, USA, 9600 Garsington Road, Oxford, OX4 2DQ, and PO Box 378 Carlton South, 3053 Victoria, Australia Past and Present Intergroup Contact and Conflict Among Inhabitants of Former Mixed Villages of Cyprus: The Role of Individual and Collective Experiences in Predicting Attitudes and Trust Judit Kende University of Lausanne Charis Psaltis University of Cyprus Julia Reiter University of Lausanne Kyriaki Fousiani University of Groningen Huseyin Cakal Keele University Eva G. T. Green University of Lausanne Positive attitudes and trust towards former adversaries facilitate reconciliation and peace building. Both historical and current intergroup experiences such as intergroup contact and conflic...",
+      "abstract": "This article examines how past and present intergroup experiences shape attitudes and trust among former inhabitants of mixed villages in Cyprus. It focuses on the role of both positive and negative contact, as well as collective experiences of conflict, in predicting present-day orientations toward the other community. Drawing on data from Greek Cypriot and Turkish Cypriot participants with connections to formerly mixed villages, the study shows that intergroup relations are shaped not only by current contact but also by memories of coexistence, conflict, displacement, and collective narratives about the past. The findings underline the importance of understanding reconciliation through both individual and collective histories.",
       "pdf": "papers/kende-et-al-2021-past-and-present-intergroup-contact-and-conflict-among-inhabitants-of-former-mixed-villages.pdf"
     },
     {
       "year": 2020,
       "authors": "Charis Psaltis",
       "title": "A Genetic Social Psychological Perspective on Gentrification",
-      "abstract": "The Largent and Quimby (2020; see this present issue of JISS) article tackled an important social issue for the community of East Austin but at the same time touched upon a social phenomenon, that of gentrification, found in many other parts of the world. Gentrification is a real problem for low-income residents as it affords a new value to old buildings and pushes real estate prices up which in turn forces poorer residents out in search of cheaper housing. Usually at the heart of gentrification processes lies a contestation around “heritage”, “community” and “desegregation” that I would like to discuss in the context of both Austin and Nicosia, the last divided capital in the word and the city where I work and am more familiar with. These entanglements of positioning around the notions of “her itage”, “community” and “desegregation” I will propose could be deepened using the theoretical...",
+      "abstract": "This commentary uses genetic social psychology to reflect on gentrification as a process of social change involving contested meanings of place, heritage, community, and desegregation. Drawing on the case of East Austin and comparisons with Nicosia, it argues that gentrification cannot be understood only as an economic or urban-planning issue. It is also a struggle over social representations: how different groups define belonging, value old and new spaces, and position themselves in relation to community transformation. The commentary suggests that genetic social psychology can help analyse how such representations emerge, clash, and change through interaction and wider historical processes.",
       "pdf": "papers/psaltis-2020-a-genetic-social-psychological-perspective-on-gentrification.pdf"
     },
     {
       "year": 2020,
-      "authors": "Stortz et al",
+      "authors": "Nina Stortz et al",
       "title": "Collective Psychological Ownership and Reconciliation",
       "abstract": "Collective psychological ownership refers to people’s perception that an object, place, or idea belongs to their own group. We considered this concept in the context of territorial conflicts and proposed that (1) collective psychological ownership is distinct from place attachment, (2) higher ingroup identifiers are more likely to claim collective ownership and feel attached to the territory, yet (3) only ownership claims are related to lower support for reconciliation. These hypotheses were tested in two studies using structural equation modelling. Study 1 addressed the Kosovo conflict, based on Serbian participants living in Serbia (N = 264). We found that collective psychological ownership and place attachment were distinct. Moreover, higher Serbian identifiers had a stronger sense of collective ownership of Kosovo and were more attached to it. Those with stronger feelings of collecti...",
       "pdf": "papers/stortz-et-al-2020-collective-psychological-ownership-and-reconcliliation.pdf"
     },
     {
       "year": 2020,
-      "authors": "Psaltis et al",
+      "authors": "Charis Psaltis et al",
       "title": "Internally Displaced Persons and the Cyprus Peace Process",
       "abstract": "The article focuses on Greek Cypriot internally displaced persons and their attitudes towards the island’s reunification talks. We utilize quantitative data from two representative sample surveys, conducted in 2016–2017, which probed respondents on their views on territorial readjustments, property provisions and power-sharing. Contrary to the current findings in the literature, internally displaced persons status is associated with higher levels of support for a negotiated peace settlement. The article examines the impact of anticipated threats and economic opportunities accompanying a settlement and suggests a set of institutionalized mechanisms to incorporate the views of internally displaced persons and other disadvantaged groups in future reunification talks.",
       "pdf": "papers/psaltis-et-al-2020-internally-displaced-persons-and-the-cyprus-peace-process.pdf"
@@ -139,8 +139,8 @@ window.publicationsData = {
     {
       "year": 2020,
       "authors": "Deniz Yucel and Charis Psaltis",
-      "title": "The effects of direct and indirect contact on Prejudice",
-      "abstract": "In post-con ﬂict and segregated societies, overcoming high prejudice between groups is essential for peaceful coexistence. In this paper, we explore the roles of direct contact (face-to-face contact and cross-group friendship) and indirect contact (extended cross-group friendship) in reducing prejudice between Greek Cypriots and Turkish Cypriots living in Cyprus. Moreover, this study further explores whether the e ﬀects of direct and indirect contact vary between Turkish Cypriots and Greek Cypriots, as well as across a ten-year period. To explore these issues, we analyze data from di ﬀerent representative samples of Greek Cypriots and Turkish Cypriots at two di ﬀerent time points (years 2007 and 2017). The results suggest that all three forms of contact have signi ﬁcant e ﬀects on prejudice. However, they also exhibit some variations by community (but not year of data collection) in the...",
+      "title": "The Effects of Direct and Indirect Contact on Prejudice",
+      "abstract": "This article examines the effects of direct and indirect intergroup contact on prejudice between Greek Cypriots and Turkish Cypriots in post-conflict Cyprus. It investigates face-to-face contact, cross-group friendship, and extended cross-group friendship using representative samples from both communities at two time points, 2007 and 2017. The findings show that all three forms of contact are associated with lower prejudice, although effects vary by community. The study highlights the importance of both direct and indirect contact in segregated societies, where opportunities for everyday interaction remain uneven, and shows that contact continues to matter across time in shaping intergroup attitudes.",
       "pdf": "papers/yucel-psaltis-2020-the-effects-of-direct-and-indirect-contact-on-prejudice.pdf"
     },
     {
@@ -154,56 +154,56 @@ window.publicationsData = {
       "year": 2019,
       "authors": "Maria Avraamidou and Charis Psaltis",
       "title": "Blocking the Solution",
-      "abstract": "This paper first identifies representations of threats in Greek‐Cypriot newspapers related to the negotiations for a Cyprus settlement. Then, it identifies how alterna- tive representations to these core representations of threats are managed through the use of a number of semantic barriers. Therefore, it problematizes the role (function) that such representations of threats play in undermining the potential for transformative dialogue in a post ‐conflict and divided country in need of con- flict transformation. Focus is on the editorials of two newspapers during a four ‐month period before the col- lapse of the July 2017 Cyprus peace talks. Both were suspicious and polemic vis ‐à‐vis the said negotiations but used different strategies to oppose them. Simerini convened recurrently threats such as Turkification, state dissolution and threats against Hellenism. Phileleftheros focused on th...",
+      "abstract": "This paper identifies representations of threat in Greek Cypriot newspapers during negotiations for a Cyprus settlement and examines how alternative representations are managed through semantic barriers. Focusing on editorials from two newspapers during the four months before the collapse of the July 2017 Cyprus peace talks, the study shows how threat representations can undermine transformative dialogue in a divided society. Although both newspapers were suspicious of the negotiations, they used different strategies: one recurrently invoked threats such as Turkification, state dissolution, and danger to Hellenism, while the other emphasized political mistrust and negotiation risks. The paper shows how media discourse can block alternative meanings and constrain public engagement with peace efforts.",
       "pdf": "papers/avraamidou-psaltis-2019-blocking-the-solutionr.pdf"
     },
     {
       "year": 2019,
       "authors": "Deniz Yucel and Charis Psaltis",
-      "title": "Intergroup contact and willingness for Renewed Cohabitation",
-      "abstract": "One of the major challenges in divided societies is finding ways to overcome geographical partition by increasing readiness for cohabitation in mixed areas. Cyprus has faced a protracted situation of division (between Greek Cypriots and Turkish Cypriots) for the last 44 years. In this paper, we explore the role of intergroup contact (both quantity and quality of contact) in enhancing the willingness of members of these two communities to reestablish cohabitation, using representative survey samples from both communities. We hypothesize that such an effect is mediated by a decrease in the levels of prejudice between the two communities and an increase in the levels of trust. In addition, we hypothesize that the direct effect of intergroup contact and the indirect effect of intergroup contact through trust and prejudice are both moderated by age. To explore these hypotheses, we collected d...",
+      "title": "Intergroup Contact and Willingness for Renewed Cohabitation",
+      "abstract": "This article examines whether intergroup contact can increase willingness for renewed cohabitation between Greek Cypriots and Turkish Cypriots in Cyprus. Using representative survey samples from both communities, it explores the role of contact quantity and quality in supporting readiness to live together again in mixed areas. The study tests whether the effect of contact is mediated by lower prejudice and higher trust, and whether these direct and indirect effects vary by age. The findings show that positive contact can strengthen willingness for renewed cohabitation by reducing prejudice and building trust, underlining the importance of everyday intergroup encounters for peacebuilding in divided societies.",
       "pdf": "papers/yucel-psaltis-2019-intergroup-contact-and-willingness-for-renewed-cohabitation.pdf"
     },
     {
       "year": 2019,
       "authors": "Charis Psaltis",
-      "title": "The four different profiles of Greek Cypriots",
-      "abstract": "The four different stances of Greek Cypriots on the solution of the Cyprus problem 29 November 2018 Charis Psaltis, Associate Professor of Social and Developmental Psychology, Department of Psychology, University of Cyprus An interdisciplinary perspective on the Cyprus issue is now more necessary than ever, given various speculations about the current state of public opinion around the Cyprus issue. A previous social - psychological analysis from 2007 which had iden tified the profile of different \"logics\", \"profiles\" or \"positions in the representational field\" (Psaltis, 2008) towards the solution of the Cyprus problem is now outdated and there is a need for revision due t o the following factors: 1) The pass ing of 15 years of intergroup contact between the two communities after the opening of checkpoints in 2003, 2) significant change of the political narratives of various parties ove...",
+      "title": "The Four Different Profiles of Greek Cypriots",
+      "abstract": "This paper revisits Greek Cypriot public opinion on the Cyprus problem and identifies different profiles or positions toward a possible settlement. Building on earlier social-psychological work on bicommunal relations, it examines how attitudes have shifted after years of intergroup contact, changes in political narratives, and renewed cycles of negotiation. The analysis distinguishes between different orientations toward solution, coexistence, threat, trust, and intergroup contact. It argues that Greek Cypriot society cannot be understood as a single homogeneous public, but as a field of positions shaped by social representations, political identities, and differing expectations about the future of the Cyprus problem.",
       "pdf": "papers/psaltis-2019-the-four-different-profiles-of-greek-cypriots.pdf"
     },
     {
       "year": 2019,
-      "authors": "Psaltis et al",
+      "authors": "Charis Psaltis et al",
       "title": "Transitional justice and acceptance of cohabitation in Cyprus",
-      "abstract": "This article draws on the case of Cyprus probing the acceptance of renewed cohabitation in post-con ﬂict societies. Besides focusing on the two main communities on the island, the article also examines the views of the IDPs as well as the settler/migrant community. We identify variations in support for acceptance of renewed cohabitation across di ﬀerent population groups, looking at age, gender, income, refugee status, contact and past victimization within each group. In Study 1, we consider Greek Cypriot attitudes to the Turkish settler/migrant community and juxtapose those with attitudes to indigenous Turkish Cypriots. In Study 2, we compare Turkish Cypriots and settlers aiming to evaluate their attitudes towards Greek Cypriots. Findings show that, individual victimization, except a tendency related to the IDP status, does not account for variations in acceptance of cohabitation; those...",
+      "abstract": "This article examines acceptance of renewed cohabitation in post-conflict Cyprus, focusing on Greek Cypriots, Turkish Cypriots, internally displaced persons, and the settler/migrant community. It explores how contact, past victimization, refugee status, age, gender, income, and other factors relate to willingness to live together again. The findings show that individual victimization does not straightforwardly explain opposition to renewed cohabitation, while intergroup contact and reduced threat are important predictors of more positive orientations. The article argues that transitional justice and peacebuilding in Cyprus need to address both the political settlement and the social conditions under which renewed coexistence becomes acceptable.",
       "pdf": "papers/psaltis-et-al-2019-transitional-justice-and-acceptance-of-cohabitation-in-cyprus.pdf"
     },
     {
       "year": 2018,
-      "authors": "Psaltis et al",
-      "title": "History Teaching Recommendations for the Teaching of Intergroup Conflicts COST IS1205",
+      "authors": "Charis Psaltis et al",
+      "title": "History Teaching Recommendations for the Teaching of Intergroup Conflicts",
       "abstract": "This report develops recommendations for teaching the history of intergroup conflicts in ways that move beyond silence, selective narratives, and mutually exclusive victimhood. It argues that history education in divided and post-conflict societies should help students understand how historical knowledge is constructed, how narratives are used in public life, and how different groups remember the past. The recommendations emphasize multiperspectivity, critical inquiry, historical empathy, dialogue, and careful engagement with controversial issues. Rather than treating conflict history as a fixed national inheritance, the report frames history teaching as a space where students can examine evidence, recognize competing interpretations, and develop the skills needed for democratic coexistence and conflict transformation.",
       "pdf": "papers/psaltis-et-al-2018-history-teaching-recommendations-for-the-teaching-of-intergroup-conflicts-cost-is1205.pdf"
     },
     {
       "year": 2018,
-      "authors": "Psaltis et al",
+      "authors": "Charis Psaltis et al",
       "title": "Youth and Politics in Protracted Conflicts",
-      "abstract": "April 2021 Hellenic Observatory Hellenic Observatory A.G. Leventis Research Innovation A.G. Leventis Research Innovation Programme on Cyprus Programme on Cyprus Y outh and Politics in Protracted Conflicts: a comparative approach on hope for a settlement and return of IDPs Project Report Charis Psaltis, University of Cyprus Eran Halperin, Hebrew University of Jerusalem Neophytos Loizides, University of Kent Djordje Stefanovic, University of Adelaide Oded Adomi Leshem, Hebrew University of Jerusalem Huseyin Cakal, Keele University Youth and Politics in Protracted Conflicts: a comparative approach on hope for a settlement and return of IDPs 2 Youth and Politics in Protracted Conflicts: a comparative approach on hope for a settlement and return of IDPs Project Report 05 April 2021 3 University of Cyprus Authored by: Charis Psaltis, Associate Professor of Social and Developmental Psychology V...",
+      "abstract": "This project report examines youth attitudes in protracted conflicts, with a focus on hope for settlement and return among internally displaced persons. It compares young people’s political orientations, intergroup attitudes, and expectations about conflict resolution across divided contexts. The report explores how hope, perceived feasibility of settlement, identity, contact, and displacement-related experiences shape support for peace and willingness to imagine future coexistence or return. By focusing on youth, the report highlights the importance of younger generations in sustaining or transforming conflict narratives, and argues that peace processes need to engage their expectations, fears, and political agency more systematically.",
       "pdf": "papers/psaltis-et-al-2018-youth-and-politics-in-protracted-conflicts.pdf"
     },
     {
       "year": 2017,
-      "authors": "Smeekes McKeown Psaltis",
+      "authors": "Anouk Smeekes, Shelley McKeown and Charis Psaltis",
       "title": "Endorsing Narratives Under Threat",
       "abstract": "In historically divided societies, narratives play an important role in understanding the maintenance and perception of identities and group status over time. Moving beyond the consequences of identity continuity perceptions, in this paper we were interested in the antecedents of perceived collective continuity, specifically the role of narratives and threat perceptions. We predicted that endorsement of ingroup narratives would be associated with higher perceived continuity through stronger perceptions of group threat. To test this hypothesis, we recruited participants from both majority and minority groups in Northern Ireland (N = 268) and in Cyprus (N = 413) to complete an online survey to examine their endorsement of ingroup and outgroup narratives, their perceptions of identity continuity and feelings of threat. We tested these predictions with path analyses. In line with our hypothe...",
       "pdf": "papers/smeekes-mckeown-psaltis-2017-endorsing-narratives-under-threat.pdf"
     },
     {
       "year": 2017,
-      "authors": "Psaltis et al",
+      "authors": "Charis Psaltis et al",
       "title": "History Education and Conflict Transformation",
-      "abstract": "ogical Theo ial Psyccho lo So ci ries, Histor or y ry Reconciliati ching aand R Tea ac on io Charis Psaltis | Mario Carretero | Sabina Čehajić-Clancy COST is supported by the EU Framework Programme Horizon 2020 History Education and Conflict Transformation Charis Psaltis · Mario Carretero Sabina Čehajić-Clancy Editors History Education and Conflict Transformation Social Psychological Theories, History Teaching and Reconciliation Editors Charis Psaltis Department of Psychology University of Cyprus Nicosia, Cyprus Mario Carretero Autonoma University of Madrid Madrid, Spain Sabina Čehajić-Clancy School of Science and Technology University Sarajevo Sarajevo, Bosnia and Herzegovina ISBN 978-3-319-54680-3 ISBN 978-3-319-54681-0 (e Book) DOI 10.1007/978-3-319-54681-0 Library of Congress Control Number: 2017937491 © The Editor(s) (if applicable) and The Author(s) 2017. This book is an open acces...",
+      "abstract": "This edited volume brings together social psychological, educational, and historical perspectives on the role of history education in conflict transformation. It examines how school history, collective memory, official narratives, and historical representations can either sustain division or support reconciliation. The volume argues that history teaching in post-conflict and divided societies should move beyond the transmission of single national narratives and cultivate multiperspectivity, historical thinking, dialogue, and critical engagement with the past. Through theoretical chapters and empirical case studies, it shows how history education can become a site for democratic learning and peacebuilding.",
       "pdf": "papers/psaltis-et-al-2017-history-education-and-conflict-transformation.pdf"
     },
     {
@@ -215,16 +215,16 @@ window.publicationsData = {
     },
     {
       "year": 2017,
-      "authors": "Psaltis et al",
-      "title": "Social Representations of the Past",
-      "abstract": "Layout: A5 Hu SSci Book ID: 417332_1_En Book ISBN: 978-3-319-54681-0 Chapter No.: 4 Date: 15 June 2017 16:05 Page: 97/122 UNCORRECTED PROOF 97 Social Representations of the Past in Post-conflict Societies: Adherence to Official Historical Narratives and Distrust Through Heightened Threats Charis Psaltis, Renata Franc, Anouk Smeekes, Maria Ioannou and Iris Žeželj © The Author(s) 2017 C. Psaltis et al. (eds.), History Education and Conflict Transformation, DOI 10.1007/978-3-319-54681-0_4 C. Psaltis (*) Social and Developmental Psychology, The University of Cyprus, Nicosia, Cyprus e-mail: cpsaltis@ucy.ac.cy R. Franc Ivo Pilar Institute of Social Sciences, Zagreb 10 000, Croatia A. Smeekes ERCOMER, Utrecht University, Utrecht, The Netherlands M. Ioannou University College Groningen, University of Groningen, Groningen, The Netherlands I. Žeželj Social Psychology, The University of Belgrade, B...",
+      "authors": "Charis Psaltis et al",
+      "title": "Social Representations of the Past in Post-Conflict Societies",
+      "abstract": "This chapter examines social representations of the past in post-conflict societies and their relationship to official historical narratives, perceived threat, and distrust. It argues that adherence to official narratives can shape how groups remember conflict, define victimhood, and evaluate the other community. Drawing on social representations theory, the chapter explores how collective memories become linked to identity and intergroup relations, and how heightened threat can reinforce distrust and resistance to reconciliation. The analysis highlights the importance of history education and public memory in either reproducing antagonism or opening possibilities for more reflective and dialogical engagement with the past.",
       "pdf": "papers/psaltis-et-al-2017-social-representations-of-the-past.pdf"
     },
     {
       "year": 2017,
-      "authors": "Zezelj et al",
+      "authors": "Iris Žeželj et al",
       "title": "The role of interethnic online friendships in prejudice reduction",
-      "abstract": "Direct contact between members of ethnic groups is proven to reduce intergroup prejudice. Recent research, however, explores the effects of alternative types of contact, amongst them via social networks in virtual space. This is especially important for e.g. post-con ﬂict societies in which there is limited opportunity for direct contact between the groups. Drawing from a sample of 374 ethnic majority stu- dents from three such societies e Serbia, Croatia, and Cyprus, we tested if the number of online inter- ethnic friends predicted more positive out-group attitudes over and above the effect of face-to-face contacts. This relationship testi ﬁed to the added value of online ties. We also tested if intergroup anxiety and perceived ethnic threat would mediate the relationship between online friendships and out-group attitudes. Results from the combined sample showed clear mediation effects....",
+      "abstract": "Direct contact between members of ethnic groups is proven to reduce intergroup prejudice. Recent research, however, explores the effects of alternative types of contact, amongst them via social networks in virtual space. This is especially important for e.g. post-conflict societies in which there is limited opportunity for direct contact between the groups. Drawing from a sample of 374 ethnic majority stu- dents from three such societies e Serbia, Croatia, and Cyprus, we tested if the number of online inter- ethnic friends predicted more positive out-group attitudes over and above the effect of face-to-face contacts. This relationship testi fied to the added value of online ties. We also tested if intergroup anxiety and perceived ethnic threat would mediate the relationship between online friendships and out-group attitudes. Results from the combined sample showed clear mediation effects....",
       "pdf": "papers/zezelj-et-al-2017-the-role-of-interethnic-online-friendships-in-prejudice-reduction.pdf"
     },
     {
@@ -245,35 +245,35 @@ window.publicationsData = {
       "year": 2016,
       "authors": "Charis Psaltis and Huseyin Cakal",
       "title": "Social Identity in Divided Cyprus",
-      "abstract": "229© Springer International Publishing Switzerland 2016 S. Mc Keown et al. (eds.), Understanding Peace and Conﬂ ict Through Social Identity Theory, Peace Psychology Book Series, DOI 10.1007/978-3-319-29869-6_15 Chapter 15 Social Identity in a Divided Cyprus Charis Psaltis and Huseyin Cakal The Cyprus issue is a complex problem of internal conﬂ ict between the two main communities of Cyprus, Greek Cypriots and Turkish Cypriots, but also an issue of external interventions by various other countries with most prominent the continuing occupation by 30,000–40,000 Turkish troops of the northern part of Cyprus since 1974, the division of the island, and the existence of a secessionist state in Northern Cyprus. Both dimensions of the Cyprus issue implicate identity politics (Papadakis, 2003 ) into the collective struggles of the two communities, internal ideological ten- sions and differentiatio...",
+      "abstract": "This chapter examines the Cyprus problem through the lens of social identity theory, focusing on how Greek Cypriot and Turkish Cypriot identities are shaped by internal conflict, external intervention, partition, and competing political projects. It explores how national, ethnic, and community identities are implicated in collective narratives, ideological tensions, and intergroup relations on the island. The chapter argues that identity politics are central to understanding both the persistence of division and the possibilities for reconciliation. By analysing social identity processes in divided Cyprus, it shows how perceived threat, group status, historical narratives, and contact conditions influence attitudes toward the other community and toward potential political solutions.",
       "pdf": "papers/psaltis-cakal-2016-social-identity-in-divided-cyprus.pdf"
     },
     {
       "year": 2015,
-      "authors": "Psaltis et al",
-      "title": "Genetic Social Psychology From Microgenesis Ontogenesis to Sociogenesis and Back",
+      "authors": "Charis Psaltis et al",
+      "title": "Genetic Social Psychology: From Microgenesis and Ontogenesis to Sociogenesis and Back",
       "abstract": "This chapter outlines genetic social psychology as a framework for connecting microgenesis, ontogenesis, and sociogenesis in the study of social representations and development. It argues that social representations are evoked, negotiated, and transformed in concrete interactions, while also developing across individual lifetimes and historical change. The chapter places microgenesis at the center of this framework because interaction is where social identities, meanings, and representations of self, other, and object are actively reconstructed. Drawing on research on peer interaction, cognitive development, gender representations, and intergroup relations in Cyprus after the opening of the checkpoints in 2003, it shows how social interaction can link individual development with wider sociogenetic transformations in collective meanings and intergroup relations.",
       "pdf": "papers/psaltis-et-al-2015-genetic-social-psychology-from-microgenesis-ontogenesis-to-sociogenesis-and-back.pdf"
     },
     {
       "year": 2014,
-      "authors": "Psaltis et al",
-      "title": "Contested Symbols as Social Representations The case of Cyprus",
-      "abstract": "concepts into familiar concrete experiences so that what is perceived replaces what is conceived. Objectiﬁ cation turns the invisible into perceptible and in that sense the materializa- tion of abstractions is the central process in social symbolism (Verkuyten, 1995 ). Values, needs, norms and ideals are concretized so that the object or artefact embod- ies these abstract notions and portrays its symbolic meaning. If we were to use the iceberg metaphor, the visible tip of the iceberg could be the symbol in the form of a cultural artefact but the submerged base would be the emotions, values, ideas, prac- tices and social relations that provide the tip its meaning. In this sense symbols can be misleading because being polyvalent means that the same cultural artefact can be a manifestation of a completely different system of thought. The case of divided societies is particularly germane in...",
+      "authors": "Charis Psaltis et al",
+      "title": "Contested Symbols as Social Representations: The Case of Cyprus",
+      "abstract": "This chapter examines contested symbols in Cyprus as social representations embedded in intergroup conflict. It argues that symbols do not simply represent fixed meanings; rather, they objectify values, emotions, norms, identities, and historical narratives. In divided societies, the same cultural artefact can carry different and often opposing meanings for different groups. Using the case of Cyprus, the chapter shows how symbols become part of struggles over identity, memory, sovereignty, victimhood, and legitimacy. It highlights how social representations theory can help explain why symbols become emotionally charged and politically contested, and why conflict transformation requires attention to the meanings attached to public signs and artefacts.",
       "pdf": "papers/psaltis-et-al-2014-contested-symbols-as-social-representations-the-case-of-cyprus.pdf"
     },
     {
       "year": 2014,
-      "authors": "Psaltis et al",
-      "title": "Oral history accounts of the former Mixed Villages",
+      "authors": "Charis Psaltis et al",
+      "title": "Oral History Accounts of Former Mixed Villages",
       "abstract": "This chapter examines oral history accounts of former inhabitants of mixed villages in Cyprus from a social representations perspective. It argues that oral history sits at the intersection of individual memory, collective memory, identity, and social positioning, making it a privileged site for studying how people reconstruct the past in relation to the present and future. In the context of Cyprus, where Greek Cypriot and Turkish Cypriot communities have developed divergent historical narratives and representations of the Cyprus problem, the chapter explores how memories of mixed villages are shaped by official histories, community positions, trust, threat, forgiveness, and hopes for coexistence. It shows that remembering former mixed villages is not simply a retrieval of past experience but part of an identity project embedded in wider representational fields.",
       "pdf": "papers/psaltis-et-al-2014-oral-history-accounts-of-the-former-mixed-villages.pdf"
     },
     {
       "year": 2013,
-      "authors": "Till et al",
-      "title": "Interventions in the Political Geographies of walls",
-      "abstract": "Interventions in the political geographies of walls Karen E. Till a, *, Juanita Sundberg b, Wendy Pullan c, Charis Psaltis d, Chara Makriyianni d, Rana Zincir Celal d, Meltem Onurkan Samani d, Lorraine Dowler e a Department of Geography, National University of Ireland Maynooth, Maynooth, County Kildare, Ireland b Department of Geography, University of British Columbia, Vancouver, B.C., Canada c Department of Architecture, University of Cambridge, Cambridge, United Kingdom d Association for Historical Dialogue and Research, Home for Cooperation, 28 Marcou Dracou St, Nicosia 1 102, Cyprus e Departments of Geography and Women ’s Studies, Penn State University, University Park, PA 16802, USA Keywords: Walls Borders Jerusalem Nicosia Belfast Berlin USe Mexico border State power Resurgent sovereignty Place-based sovereignty Conﬂict infrastructures Infrastructures of peace Witnessing Walls, res...",
+      "authors": "Karen E. Till et al",
+      "title": "Interventions in the Political Geographies of Walls",
+      "abstract": "This article examines walls and borders as political geographies that structure conflict, sovereignty, memory, and everyday life. Drawing on cases such as Nicosia, Belfast, Berlin, Jerusalem, and the US-Mexico border, it explores how walls function not only as physical barriers but also as symbolic infrastructures of division and power. The article considers practices of witnessing, intervention, and peacebuilding that challenge the normalization of separation. It argues that walls should be understood through their social, political, and emotional effects, including how they shape mobility, identity, security, and possibilities for encounter across divided spaces.",
       "pdf": "papers/till-et-al-2013-interventions-in-the-political-geographies-of-walls.pdf"
     },
     {
@@ -287,19 +287,19 @@ window.publicationsData = {
       "year": 2012,
       "authors": "Charis Psaltis",
       "title": "Intergroup Trust and Contact in Transition",
-      "abstract": "5 Intergroup trust and contact in transition A social representations perspective on the Cyprus conﬂ ict Charis Psaltis University of Cyprus The chapter discusses intergroup trust and its relation to intergroup contact from the perspective of intergroup relations originally initiated by Allport (1954) and recently developed in the context of Social Identity Theory. However, this chapter will argue that the theory of social representations can enrich the classic approach on contact by introducing a historical and cultural analysis. After situating the Cyprus issue in its historical context I present an analysis of present identity positions, within each community, as perspectives on intergroup relations that canalise the past–present–future transition and discuss how intergroup trust can be conceptualised in relation to contact from this perspective. The contact hypothesis: from the reduc...",
+      "abstract": "This chapter examines intergroup trust and contact in the Cyprus conflict from a social representations perspective. It situates contact theory within the historical and cultural context of Cyprus and argues that the meaning of contact depends on identity positions, representations of the past, and expectations about the future. The chapter analyses how Greek Cypriots and Turkish Cypriots understand trust, threat, and intergroup relations after the opening of the checkpoints. It suggests that contact can support trust-building and reconciliation, but only when embedded in wider transformations of social representations and political identities. The chapter enriches classic contact theory by linking everyday encounters with historical narratives and collective meanings.",
       "pdf": "papers/psaltis-charis-2012-intergroup-trust-and-contact-in-transition.pdf"
     },
     {
       "year": 2011,
-      "authors": "Psaltis et al",
-      "title": "History Educators in the Greek Cypriot and Turkish Cypriot Community of Cyprus Perceptions Beliefs",
-      "abstract": "Authors: Charis PSALTIS Eleni LYTRAS Stefania COSTACHE Editorial Advisor: Arthur CHAPMAN Language Editor of Greek version: Panayiota CHARALAMBOUS Language Editor of Turkish version: Johann PILLAI For information: The Association for Historical Dialogue and Research E-mail address: ahdr.mide@ahdr.info Web-site: http://www.ahdr.info © Copyright: UNDP-ACT, 2011 All rights reserved. Produced in Cyprus. Photographs: Sarah Malian and Beran Djemal, CCMC & Chara Makriyianni, AHDR © DESIGN: GRA.DES www.gra-des.com Printing: K&L LITHOFIT LTD, Nicosia, Cyprus This publication, also available in the Turkish and Greek language, was made possible with funding from the United Nations Development Programme (UNDP), Action for Cooperation and Trust (ACT) and is one of a series of Educational Materials that are part of the Multiperspectivity and Intercultural Dialogue in Education (MIDE) project of the Ass...",
+      "authors": "Charis Psaltis et al",
+      "title": "History Educators in the Greek Cypriot and Turkish Cypriot Communities of Cyprus: Perceptions and Beliefs",
+      "abstract": "This report examines the perceptions, beliefs, and practices of history educators in the Greek Cypriot and Turkish Cypriot communities of Cyprus. It investigates how teachers understand the aims of history teaching, the role of multiperspectivity, and the challenges of teaching contested pasts in a divided society. The report situates educators within wider public debates about history, identity, nationalism, and reconciliation. It shows that history teachers are central actors in either reproducing inherited narratives or creating opportunities for critical historical thinking and intercultural dialogue. The findings support the need for teacher training, educational materials, and pedagogical approaches that encourage multiperspectivity and mutual understanding.",
       "pdf": "papers/psaltis-et-al-2011-history-educators-in-the-greek-cypriot-and-turkish-cypriot-community-of-cyprus-perceptions-beliefs.pdf"
     },
     {
       "year": 2011,
-      "authors": "Makriyianni et al",
+      "authors": "Chara Makriyianni, Charis Psaltis and Dilek Latif",
       "title": "History Teaching in Cyprus",
       "abstract": "This chapter examines history teaching in Cyprus within the wider political and educational context of a divided society. It discusses how the recent history of Cyprus, including colonialism, competing nationalisms, intercommunal violence, displacement, and the unresolved Cyprus problem, has shaped public history and school history across the divide. The chapter shows how history education has often transmitted narratives centered on national suffering and political legitimation, while marginalizing the suffering and perspectives of the other community. It also reviews debates around textbook reform, multiperspectivity, peace education, and rapprochement, arguing that history teaching in Cyprus can either reproduce division or support historical thinking, mutual understanding, and democratic engagement with contested pasts.",
       "pdf": "papers/makriyianni-et-al-2011-history-teaching-in-cyprus.pdf"
@@ -307,15 +307,15 @@ window.publicationsData = {
     {
       "year": 2011,
       "authors": "Vally Lytra and Charis Psaltis",
-      "title": "Representations of the Past Present and Future in Mixed Villages",
-      "abstract": "Authors: Dr. Eleni Lytras Dr. Charis Psaltis Editorial Advisors: Arthur Chapman Gregoris Ioannaou Research Director: Dr. Charis Psaltis For information: The Association for Historical Dialogue and Research E-mail address: ahdr.mide@ahdr.info Web-site: http://www.ahdr.info © Copyright: UNDP-ACT, 2011 All rights reserved. Produced in Cyprus. © DESIGN: GRA.DES www.gra-des.com Cover Photographs: Georgios Philippou Printing: K&L Lithofit, Nicosia, Cyprus This publication, also available in the Turkish and Greek language, was made possible with funding from the United Nations Development Programme (UNDP), Action for Cooperation and Trust (ACT) and is one of a series of Research reports that are part of the Multiperspectivity and Intercultural Dialogue in Education (MIDE) project of the Association for Historical Dialogue and Research (AHDR). AHDR is an inter-communal organization whose mission...",
+      "title": "Representations of the Past, Present and Future in Mixed Villages",
+      "abstract": "This report examines representations of the past, present, and future among former inhabitants of mixed villages in Cyprus. It explores how Greek Cypriots and Turkish Cypriots remember intercommunal coexistence, conflict, displacement, and the transformation of village life before and after 1974. The report shows that memories of mixed villages are shaped by community narratives, personal experiences, loss, nostalgia, mistrust, and hopes or fears about renewed coexistence. By connecting past memories with present attitudes and imagined futures, the study highlights the importance of oral history and social representations for understanding reconciliation, return, and bicommunal relations in Cyprus.",
       "pdf": "papers/lytra-psaltis-2011-representations-of-the-past-present-and-future-in-mixed-villages.pdf"
     },
     {
       "year": 2010,
-      "authors": "Tausch et al",
-      "title": "Secondary Contact Effects of Contact",
-      "abstract": "Secondary Transfer Effects of Intergroup Contact: Alternative Accounts and Underlying Processes Nicole Tausch Cardiff University Miles Hewstone University of Oxford Jared B. Kenworthy University of Texas at Arlington Charis Psaltis University of Cyprus Katharina Schmid University of Oxford Jason R. Popan University of Texas at Arlington Ed Cairns University of Ulster Joanne Hughes Queen’s University Belfast Although intergroup contact is one of the most prominent interventions to reduce prejudice, the generalization of contact effects is still a contentious issue. This research further examined the rarely studied secondary transfer effect (STE; Pettigrew, 2009), by which contact with a primary outgroup reduces prejudice toward secondary groups that are not directly involved in the contact. Across 3 cross-sectional studies conducted in Cyprus (N /H110051,653), Northern Ireland (N /H110051...",
+      "authors": "Nicole Tausch et al",
+      "title": "Secondary Transfer Effects of Intergroup Contact",
+      "abstract": "This article examines the secondary transfer effect of intergroup contact: the possibility that contact with one outgroup can reduce prejudice toward other outgroups not directly involved in the contact. Drawing on studies conducted in Cyprus, Northern Ireland, and the United States, it investigates alternative explanations and underlying processes that may account for this generalization of contact effects. The findings show that positive intergroup contact can have broader consequences beyond the immediate groups involved, partly through changes in intergroup anxiety, empathy, perspective-taking, and attitudes toward diversity. The article contributes to contact theory by showing how local contact experiences may support wider prejudice reduction.",
       "pdf": "papers/tausch-et-al-2010-secondary-contact-effects-of-contact.pdf"
     },
     {
@@ -328,8 +328,8 @@ window.publicationsData = {
     {
       "year": 2007,
       "authors": "Chara Makriyianni and Charis Psaltis",
-      "title": "The teaching of History and Reconciliation",
-      "abstract": "The question of history teaching and learni ng in Cyprus often comes to the forefront of public debate, mainly in the daily press, as a contest between those who wish to change the school history textbooks and those who want them to stay as they are. Although such discussions are useful, in th is paper they are of secondary importance to the question of what the aims are, the methodological weaknesses and, more fundamentally, the epistemolo gical assumptions of the current way history is being taught and learned in Greek-Cypriot schools of Cyprus. As this paper shows, one of the most important problems of teaching an d learning history today in Cyprus is the understanding of history teaching by many educators as a mere transmission of beliefs and the presentation of the past as heritage. Not only this state of affairs does not promote historical understanding, but it hinders reconciliati...",
+      "title": "The Teaching of History and Reconciliation",
+      "abstract": "This paper examines history teaching in Greek Cypriot schools and its implications for reconciliation in Cyprus. It argues that public debates about textbooks are important but should not obscure deeper questions about the aims, methods, and epistemological assumptions of history education. The paper criticizes approaches that treat history as the transmission of fixed beliefs or as national heritage, arguing that such approaches hinder historical understanding and reconciliation. It calls for history teaching that develops critical inquiry, multiperspectivity, historical thinking, and openness to the experiences of others. In this sense, history education can become a resource for democratic understanding and conflict transformation.",
       "pdf": "papers/makriyianni-psaltis-2007-the-teaching-of-history-and-reconciliation.pdf"
     }
   ]
