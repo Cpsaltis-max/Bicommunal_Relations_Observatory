@@ -96,7 +96,7 @@ window.publicationsData = {
     },
     {
       "year": 2022,
-      "authors": "Michalis Kyriakides and Charis Psaltis",
+      "authors": "Marios Kyriakides and Charis Psaltis",
       "title": "Suppressing the Expression of Prejudice",
       "abstract": "This article proposes genetic social psychology as a theoretical framework for understanding both the suppression of prejudice and prejudice reduction in childhood and adolescence. It examines how positive in-group norms interact with realistic and symbolic threats and subgroup identification in the post-conflict setting of Cyprus. Drawing on data from Greek Cypriot children and adolescents aged 7 to 17, the study tests whether threat and identification become more closely linked to prejudice with age and whether positive in-group norms can reduce the expression of prejudice. The findings illuminate how developmental processes, group norms, and intergroup representations jointly shape prejudice in divided societies.",
       "pdf": "papers/kyriakides-psaltis-2022-article-suppressing-the-expression-of-prejudice.pdf"

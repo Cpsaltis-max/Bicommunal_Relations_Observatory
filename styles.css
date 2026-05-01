@@ -315,6 +315,81 @@ h3 {
   padding: 14px;
 }
 
+.collaborations-section {
+  background: #fbfaf5;
+}
+
+.collaboration-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: 0 12px 34px rgba(23, 33, 27, 0.08);
+}
+
+.collaboration-table {
+  width: 100%;
+  min-width: 880px;
+  border-collapse: collapse;
+  font-size: 0.93rem;
+}
+
+.collaboration-table th,
+.collaboration-table td {
+  border-bottom: 1px solid var(--line);
+  padding: 12px 16px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.collaboration-table th {
+  background: #f4f0dc;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.collaboration-table tbody tr:hover {
+  background: rgba(250, 180, 0, 0.08);
+}
+
+.collaboration-table td:first-child {
+  width: 78px;
+}
+
+.collaboration-table img {
+  display: block;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  object-fit: contain;
+  padding: 6px;
+}
+
+.collaboration-table td:nth-child(2) {
+  min-width: 250px;
+  color: var(--accent-strong);
+  font-weight: 900;
+}
+
+.collaboration-table td:nth-child(3) {
+  color: var(--muted);
+}
+
+.collaboration-table a {
+  color: var(--ucy-green);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.collaboration-table a:hover {
+  text-decoration: underline;
+}
+
 .section {
   padding: 74px clamp(20px, 5vw, 72px);
   border-top: 1px solid var(--line);
@@ -404,6 +479,102 @@ h3 {
 
 .placeholder-section {
   padding-block: 48px;
+}
+
+.project-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: 0 12px 34px rgba(23, 33, 27, 0.08);
+}
+
+.project-table {
+  width: 100%;
+  min-width: 1040px;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.project-table caption {
+  caption-side: top;
+  padding: 16px 18px;
+  color: var(--muted);
+  text-align: left;
+}
+
+.project-table th,
+.project-table td {
+  border-bottom: 1px solid var(--line);
+  padding: 14px 16px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.project-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #f4f0dc;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.project-table tbody tr:hover {
+  background: rgba(250, 180, 0, 0.08);
+}
+
+.project-table td:first-child {
+  color: var(--accent-strong);
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.project-table td:nth-child(2),
+.project-table td:nth-child(3) {
+  font-weight: 800;
+}
+
+.project-table a {
+  color: var(--ucy-green);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.project-table a:hover {
+  text-decoration: underline;
+}
+
+.funder-badge,
+.funder-logo-text {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  margin: 0 6px 6px 0;
+  border: 1px solid rgba(138, 150, 0, 0.25);
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  font-weight: 900;
+  padding: 5px 9px;
+  text-transform: uppercase;
+}
+
+.funder-logo-text {
+  border-radius: 8px;
+  background: #fff;
+  text-transform: none;
+}
+
+.funder-logo-text img {
+  width: 56px;
+  height: 26px;
+  object-fit: contain;
 }
 
 .contact-band div {
