@@ -72,6 +72,17 @@ a {
   font-weight: 800;
 }
 
+.brand-photo {
+  width: 48px;
+  height: 48px;
+  flex: 0 0 auto;
+  border: 2px solid rgba(138, 150, 0, 0.24);
+  border-radius: 8px;
+  background: #fff;
+  object-fit: cover;
+  object-position: 54% 24%;
+}
+
 .brand strong,
 .brand small {
   display: block;
