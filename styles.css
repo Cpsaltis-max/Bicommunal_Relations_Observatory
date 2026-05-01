@@ -538,6 +538,13 @@ h3 {
   font-weight: 800;
 }
 
+.project-table td:nth-child(6) {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
 .project-table a {
   color: var(--ucy-green);
   font-weight: 900;
