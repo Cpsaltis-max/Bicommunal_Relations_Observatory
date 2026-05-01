@@ -2,11 +2,11 @@ window.publicationsData = {
   "books": [
     {
       "year": 2026,
-      "authors": "Charis Psaltis",
-      "title": "Genetic Social Psychology in Times of Polycrisis",
-      "abstract": "Review Collective memory and genetic social psychology: A necessary rediscovery in times of polycrisis Charis Psaltis Contemporary research on collective memory recognises the past’s dynamic role in present conflicts and future possibilities. Yet, in our polycrisis era marked by resurgent authoritarianism and rising individualism, resulting in democratic backsliding and withdrawal from political participation correspondingly around the world, most current work on collective memory remains descriptive, treating groups as homogeneous units while leaving developmental mechanisms of memory transformation untheorized. This article advances Genetic Social Psychology (GSP) as an interdisciplinary framework that addresses these gaps by examining how collective memory as social representations gets transformed through three types of social relationships: domination, submission, and co-operation....",
-      "pdf": "papers/psaltis-2026-genetic-social-psychology-in-times-of-polycrisis.pdf",
-      "publisher": "Cambridge University Press"
+      "authors": "Edited by Charis Psaltis and Brady Wagoner",
+      "title": "Conflict and Change: Integrating Social and Developmental Psychology",
+      "abstract": "Social and developmental psychology are often viewed as distinct subdisciplines, each with its own theories and methodologies. This open-access Cambridge University Press book bridges that divide by proposing an integrative framework that considers levels of analysis from the individual to the societal. It revisits foundational theories of development, introduces genetic social psychology, and applies this approach to the Cyprus conflict and other conflict and post-conflict settings.",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/conflict-and-change/E4AF5714AD8DC0BDB97753965EF5924B"
     }
   ],
   "papers": [
@@ -16,6 +16,13 @@ window.publicationsData = {
       "title": "Can a 10 minute Contact Intervention Reduce Prejudice Amongst Youth",
       "abstract": "This study examined the effectiveness and durability of a brief direct contact intervention in reducing prejudice among Greek Cypriot university students towards Turkish Cypriots in the divided and post-conflict context of Cyprus. The sample included 96 participants (70 females, M age = 21.75), with 45 randomly assigned to the intervention condition. Participants were assessed across three time points. Results revealed that the intervention, relative to the control condition, produced short- term improvements in outgroup attitudes, behavioural intentions, outgroup trust, willingness for cohabitation, intergroup anxiety, and perceived similarity. Importantly, willingness for cohabitation, intergroup anxiety, and perceived similarity remained improved at the 1-month follow-up. These findings highlight the potential and limitations of brief direct intergroup contact in improving intergroup...",
       "pdf": "papers/efthymiou-psaltis-2026-can-a-10-minute-contact-intervention-reduce-prejudice-amongst-youth.pdf"
+    },
+    {
+      "year": 2026,
+      "authors": "Charis Psaltis",
+      "title": "Genetic Social Psychology in Times of Polycrisis",
+      "abstract": "Review Collective memory and genetic social psychology: A necessary rediscovery in times of polycrisis Charis Psaltis Contemporary research on collective memory recognises the past’s dynamic role in present conflicts and future possibilities. Yet, in our polycrisis era marked by resurgent authoritarianism and rising individualism, resulting in democratic backsliding and withdrawal from political participation correspondingly around the world, most current work on collective memory remains descriptive, treating groups as homogeneous units while leaving developmental mechanisms of memory transformation untheorized. This article advances Genetic Social Psychology (GSP) as an interdisciplinary framework that addresses these gaps by examining how collective memory as social representations gets transformed through three types of social relationships: domination, submission, and co-operation....",
+      "pdf": "papers/psaltis-2026-genetic-social-psychology-in-times-of-polycrisis.pdf"
     },
     {
       "year": 2025,
@@ -314,8 +321,8 @@ window.publicationsData = {
     {
       "year": 2008,
       "authors": "Charis Psaltis",
-      "title": "Mapping the field of Bicommunal Relations in Cyprus",
-      "abstract": "������, �. (2008). �α�����α����α� �� ����� ��� ��α���������� �������: ��α ��������-���������� α������,\u0001\u0002\u0003- \u0005\u0006\u0007\b \u0002 \u000e\u000f\u0010 \u0011 \u0007 \u0012\u0013\u0014\u0002\u0015\u0002 \u0007:\u0017\u000e\u0002µ\u0019\u0006\u0002 \u001a \u0012\u0013\u0014\u0002\u0015\u0002 \u0007 \u0002 \u001b\u0002 \u0013\u0006\u0013µ\u0002 \u0007 \u0010\u0002\u0005\u0003 \u000e\u0019 \u0019, 11, 133-143 \u0002\u0003\u0004\u0005\u0006\u0007\u0004\u0003\b \u0005\u0003 \u0005\u0006 \u000e\u000f\u0006 \u0005\u0010 \u000e\u0011\u0003\u0012\u0006\u0011 \u0006\u0005\u0011\u0012 \u0013\u0014\u0015\u0013 \u0010 : \u0017\u0011\u0003 \u0018\u0006\u0011 \u0010 \u0011\u0006-\u001a\u001b\u0014\u0006 \u0006\u0007\u0011\u0012 \u0003 \u001b\u0013 1 \u0001\u0002 \u0004\u0005\u0002\u0006\u0007µ \u0005 \u0002 \u0002 \u000e \u0007µ\u0004 \u0005 \u000f \u0006 \u0010\u0011\u0010µ \u0011\u0012 \u0002\u0013 \u0014\u0015 \u0010\u0005 \u0011\u000f\u0002\u0014\u0006\u0004 \u0010\u0016 \u0017\u0002\u0006\u0005 \u0005\u0006\u000f\u0018\u0016 \u0019\u0013\u001a\u0002\u001b\u0002\u0007\u0012 \u0016 ���� 23 �������� 2003 � �����������α�� �����α µ ��� α�� ���������� �α� ���������� ������� ������ µ����� �������µα�α �α� �������� �� ��α������ ����� �α� ����� ��� ���- ����� ��αµµ�� µ��� α�� 29 �����α ������� �����α����� ��α�����µ��. ��� ��������- ����������� �������, �� �����µα ��� �����α�µ���� ���� �������α ��µα��α. ������, ������ µ�α �����α ��α���, ����������α� �α� ������α��α� α��µ��, µ������������� ��- �α������ �α� ��µµ����. ��������, ����� ��� ���α���α ��α ����������� ������α���� ������������� ( ��) �α� ������������� ( ��) ��������� µ ������ �� ��������...",
+      "title": "Mapping the Field of Bicommunal Relations in Cyprus (In Greek)",
+      "abstract": "This paper offers a social-psychological mapping of bicommunal relations in Cyprus after the opening of the checkpoints in April 2003. It examines how Greek Cypriots and Turkish Cypriots understand intergroup contact, trust, threat, identity, forgiveness, and possible political solutions within the wider ideological field of the Cyprus problem. The study draws on 18 focus groups, nine from each community, and a stratified survey sample of 800 Greek Cypriots and 853 Turkish Cypriots aged 18?65. Using bicommunal classificatory analysis, the paper identifies three ideological positions within each community. In both communities, one cluster is more reconciliation-oriented, values contact, and shows higher trust toward the other community. Other clusters remain attached to ethnocentric narratives, perceive higher realistic or symbolic threat, and interpret the opening of checkpoints through suspicion, domination, or strategic calculation. The findings show that contact is strongly associated with trust-building and reduced threat, but also that contact cannot be understood outside the social representations and political identities that shape its meaning. The paper concludes that sustainable peace in Cyprus requires not only institutional negotiation but also systematic support for everyday bicommunal contact, cooperation, education, and civil-society engagement.",
       "pdf": "papers/psaltis-2008-mapping-the-field-of-bicommunal-relations-in-cyprus.pdf"
     },
     {

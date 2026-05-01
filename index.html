@@ -303,6 +303,7 @@
           abstract_label: "Abstract",
           publisher_label: "Publisher",
           view_pdf: "View PDF",
+          view_book: "View book",
           datasets_eyebrow: "Datasets",
           datasets_title: "Datasets and research materials",
           datasets_text: "Public datasets, documentation, and related resources will be listed here as they become available.",
@@ -373,6 +374,7 @@
           abstract_label: "Περίληψη",
           publisher_label: "Εκδότης",
           view_pdf: "Προβολή PDF",
+          view_book: "Προβολή βιβλίου",
           datasets_eyebrow: "Δεδομένα",
           datasets_title: "Δεδομένα και ερευνητικό υλικό",
           datasets_text: "Δημόσια δεδομένα, τεκμηρίωση και σχετικοί πόροι θα καταγράφονται εδώ όταν είναι διαθέσιμα.",
@@ -443,6 +445,7 @@
           abstract_label: "Özet",
           publisher_label: "Yayıncı",
           view_pdf: "PDF görüntüle",
+          view_book: "Kitabı görüntüle",
           datasets_eyebrow: "Veri Setleri",
           datasets_title: "Veri setleri ve araştırma materyalleri",
           datasets_text: "Kamusal veri setleri, belgeler ve ilgili kaynaklar kullanılabilir oldukça burada listelenecektir.",
@@ -499,8 +502,8 @@
         abstract.textContent = item.abstract;
         const link = document.createElement("a");
         link.className = "button secondary";
-        link.href = item.pdf;
-        link.textContent = dictionary.view_pdf;
+        link.href = item.url || item.pdf;
+        link.textContent = item.url ? dictionary.view_book : dictionary.view_pdf;
         article.append(meta, title, authors, label, abstract, link);
         return article;
       }
