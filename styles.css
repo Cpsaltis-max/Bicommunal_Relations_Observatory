@@ -33,6 +33,22 @@ body {
   line-height: 1.5;
 }
 
+html[lang="el"] body {
+  font-family:
+    "Segoe UI", "Noto Sans", Arial, ui-sans-serif, system-ui, sans-serif;
+}
+
+html[lang="el"] h1,
+html[lang="el"] h2,
+html[lang="el"] h3,
+html[lang="el"] .signal-grid strong,
+html[lang="el"] .top-nav a,
+html[lang="el"] .button,
+html[lang="el"] .profile-links a,
+html[lang="el"] .media-link-grid a {
+  font-weight: 800;
+}
+
 a {
   color: inherit;
 }
