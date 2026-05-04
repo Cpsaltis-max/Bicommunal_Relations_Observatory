@@ -442,6 +442,32 @@ h3 {
   text-decoration: underline;
 }
 
+.media-card {
+  min-height: 240px;
+}
+
+.media-link-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.media-link-grid a {
+  border: 1px solid rgba(138, 150, 0, 0.28);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ucy-green);
+  font-weight: 900;
+  padding: 9px 12px;
+  text-decoration: none;
+}
+
+.media-link-grid a:hover {
+  border-color: var(--ucy-orange);
+  background: var(--soft);
+}
+
 .card-note {
   display: inline-flex;
 }
